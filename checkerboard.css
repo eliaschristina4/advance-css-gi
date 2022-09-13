@@ -1,0 +1,17 @@
+table {
+    border: 1px solid black;
+}
+
+th, td {
+    border: 1px solid white;
+    height: 100px;
+    width: 100px;
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
